@@ -1,4 +1,4 @@
-Open Dialogflow(https://console.dialogflow.com/api-client/#/agent/signin)            |  Signin Using Google Account
+Open Dialogflow(https://console.dialogflow.com/api-client/#/agent/signin)            |  Sign in Using Google Account
 :-------------------------:|:-------------------------:
 ![](https://github.com/DivakarUngatla/divakarungatla.github.io/blob/master/benten/dialogflow-images/1login.png?raw=true)  |  ![](https://github.com/DivakarUngatla/divakarungatla.github.io/blob/master/benten/dialogflow-images/2email.png?raw=true)
 
